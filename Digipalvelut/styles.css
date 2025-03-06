@@ -7,3 +7,98 @@ h1 {
 p {
     color: ;
 }
+
+
+.logo1 {
+    font-size: 60px;
+    padding: 0 0;
+    margin: 0;
+    font-family: "Montserrat"
+}
+.topsite {
+    text-align:center;
+   
+}
+.topnav {
+    align-content: center;
+  background-color: #C08f4f;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    font-family: "Arial";
+    display: inline-block;
+margin-left: 4%;
+    margin-right: 4%;
+    outline: none;
+  color: #212121;
+  text-align: center;
+  padding: 10px 25px;
+  border-radius: 7px;
+  box-shadow: 0 9px #999;
+  text-decoration: none;
+  font-size: 27px;
+     box-shadow: 0 5px #A97835;
+  transform: translateY(-4px);
+     background-color: #CD9f61;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #CD9f61;
+  color: white;
+}
+
+body {
+    background-color: #C08f4f;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+/* Tsiigaa kommentti index.html main1,main2 liittyen */
+.main1 {
+    background-color: #CD9f61;
+    width: 100%;
+    height: 300px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.main2 {
+    background-color: #A97835;
+    width: 100%;
+    height: px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.kuva2 {
+    align-content: center;
+  
+}
+.kuvattu {
+      width: 70%;
+    border: 4px solid #CD9f61;
+}
+
+
+
+/* Footer tagi ohjaa sivuston pohjassa olevaa, voi muuttaa html:ässä esim <footer></footer> luettavammaks. Semantic html googlessa löytyy tietoa */
+.contactfooter {
+    font-family: "Arial";
+    display: inline-block;
+    border: 4px  solid #A97835;
+    padding: 5px 5px;
+    margin-left: 20px
+}
