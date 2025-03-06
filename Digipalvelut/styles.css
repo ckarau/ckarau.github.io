@@ -23,6 +23,7 @@ p {
 .cta {
     align-content: center;
     overflow: hidden;
+    position: relative;
 
 
 }
@@ -105,6 +106,7 @@ body {
     padding-right: 0px;
     font-size: 26px;
     text-align: center;
+    height: inherit;
 }
 
 
