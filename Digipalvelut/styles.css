@@ -139,6 +139,10 @@ body {
     display: inline-block;
     border: 4px  solid #A97835;
     padding: 5px 5px;
-    margin-left: 15%;
-    margin-right: 15%;
+}
+
+footer {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
 }
