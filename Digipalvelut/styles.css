@@ -10,7 +10,7 @@ p {
     margin-right:15%;
 }
 
-
+/*tekstilogon tyyliin vaikuttavat*/
 .logo1 {
     font-size: 60px;
     padding: 0 0;
@@ -29,7 +29,7 @@ p {
 
 
 }
-
+/* cta:n hover over stylisointi */
 .cta a {
     font-family: "Arial";
     display: inline-block;
@@ -99,7 +99,7 @@ body {
     margin: 0;
 }
 
-/* Tsiigaa kommentti index.html main1,main2 liittyen */
+/* Main1 on sivustojen pääelementin tyyli yksi, main2 on taas väri kaksi */
 .main1 {
     background-color: #CD9f61;
     width: 100%;
