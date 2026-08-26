@@ -1,6 +1,6 @@
 # Kotitehtävät
 
-## h1 Tappoketjua
+## h1 Kybertappoketju
 
 ### Herrasmieshakkerit – Valkohattuhakkerit, vieraana Iiro Uusitalo (1.10.2019)
 
